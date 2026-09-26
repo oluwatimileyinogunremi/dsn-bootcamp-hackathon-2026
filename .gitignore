@@ -1,0 +1,13 @@
+# Competition data (not redistributed — download from the Kaggle competition page instead)
+data/
+*.csv
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# CatBoost's local training-log folder, if it ever gets created
+catboost_info/
